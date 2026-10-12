@@ -1,0 +1,6 @@
+event_id,date,channel,campaign,impressions,clicks,installs,spend_eur
+001,2026-07-01,organic,summer,1000,120,25,40
+002,2026-07-01,search,brand,5000,200,45,250
+003,2026-07-02,social,summer,7500,320,70,340
+004,2026-07-02,organic,summer,1800,220,33,52
+005,2026-07-03,search,brand,4300,175,26,200
